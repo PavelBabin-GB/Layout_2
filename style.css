@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.top-rage{
+  padding: 0 12px 0 50;
+}
+.top-header{
+  padding: 25px;
+  margin: 0 0 19px 0;
+}  
+.top-content{
+  padding: 39px 0 61px 0;
+  margin: 0 0 99px 0;
+}
+.top-text{
+  padding: 0 0 31px 0;
+  }
+.title{
+  margin: 0 0 17px 0;
+}
+.text{
+  margin: 0 0 8px 0;
+}

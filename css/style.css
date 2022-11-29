@@ -1,0 +1,162 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Gilroy-Bold';
+}
+
+.center {
+  padding-left: calc(50% - 585px);
+  padding-right: calc(50% - 585px);
+}
+
+.top-rage {
+  padding: 40px 0 96px 0;
+}
+
+.top-rage-menu {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 500px;
+
+}
+
+.top-header {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 137px;
+  height: 40px;
+}
+
+.logo {
+  width: 35px;
+  height: 40px;
+}
+
+.logo-text {
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.logo-text2 {
+  font-size: 24px;
+  line-height: 28px;
+  color: #F25822;
+  ;
+}
+
+.top-menu {
+  width: 533px;
+  height: 17px;
+
+}
+
+.menu-list {
+  display: flex;
+  font-family: 'Gilroy-SemiBold';
+  list-style: none;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.menu-item-link {
+  font-size: 14px;
+  line-height: 16px;
+  color: #F25822;
+  text-decoration: none;
+}
+
+.menu-item-link2 {
+  font-size: 14px;
+  line-height: 16px;
+  color: #000;
+  text-decoration: none;
+}
+
+.top-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 39px;
+}
+
+.top-text {
+  padding: 0 0 31px 0;
+}
+
+.title {
+  width: 522px;
+  height: 222px;
+  font-size: 60px;
+  line-height: 70px;
+  color: #000000;
+  margin: 84px 0 17px 0;
+}
+
+.text {
+  width: 466px;
+  height: 48px;
+  margin: 0 0 37px 0;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+.butons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 72px;
+  margin: 0 0 256px 0;
+}
+
+.start {
+  background: #F25822;
+  box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+  border-radius: 50px;
+  width: 140px;
+  height: 50px;
+  font-size: 15px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+
+.butons-link {
+  width: 140px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 18px;
+  color: #AAAAAA;
+}
+.top-img {
+  width: 544.81px;
+  height: 374.84px;
+  margin: 95px 0 0 0;
+}
+
+.top-brend {
+  padding-left: calc(50% - 600px);
+  padding-right: calc(50% - 600px);
+}
+
+.top-brend-list {
+
+  display: flex;
+  list-style: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.top-brend-item {
+  width: 160px;
+  height: 50px;
+}
+
